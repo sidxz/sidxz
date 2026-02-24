@@ -56,13 +56,37 @@ Focusing on bringing AI deeper into drug discovery workflows: building agentic k
 
 ## Featured Projects
 
-<div align="center">
-
-[![DAIKON Core Server](https://github-readme-stats.vercel.app/api/pin/?username=saclab&repo=daikon-core-server&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117)](https://github.com/saclab/daikon-core-server)&nbsp;[![StructFlo NER](https://github-readme-stats.vercel.app/api/pin/?username=structflo&repo=structflo-ner&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117)](https://github.com/structflo/structflo-ner)
-
-[![DAIKON Web App](https://github-readme-stats.vercel.app/api/pin/?username=saclab&repo=daikon-core-webapp&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117)](https://github.com/saclab/daikon-core-webapp)&nbsp;[![Parsnip](https://github-readme-stats.vercel.app/api/pin/?username=sidxz&repo=parsnip&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117)](https://github.com/sidxz/parsnip)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/saclab/daikon-core-server">DAIKON</a></h3>
+      <p>Open-source end-to-end drug discovery platform. Digital backbone of the TB Drug Accelerator — a Gates Foundation-backed consortium across 30+ global institutions. Architected on CQRS, event sourcing, and microservices.</p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/structflo/structflo-ner">StructFlo NER</a></h3>
+      <p>Zero-config named entity recognition for drug discovery, chemistry, and biological sciences. Transforms unstructured scientific text into structured, machine-readable chemical knowledge.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/saclab/daikon-core-webapp">DAIKON Web App</a></h3>
+      <p>Data-intensive SPA for drug discovery workflows with embedded 2D/3D structural rendering via RDKit (WASM) and LiteMol. Replaced static spreadsheets for a global network of scientists.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sidxz/parsnip">Parsnip</a></h3>
+      <p>Target tractability assessment platform integrating genetic, chemical, and translational evidence to systematically rank and prioritize TB drug targets.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -77,12 +101,12 @@ Focusing on bringing AI deeper into drug discovery workflows: building agentic k
 ---
 
 ## GitHub Stats
-
+<!-- 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidxz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" alt="Siddhant's GitHub Stats"/>
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidxz&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=sidxz&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
@@ -90,7 +114,7 @@ Focusing on bringing AI deeper into drug discovery workflows: building agentic k
 
 ---
 
-## Contribution Snake
+## Contributions
 
 <div align="center">
   <picture>
@@ -101,7 +125,3 @@ Focusing on bringing AI deeper into drug discovery workflows: building agentic k
 </div>
 
 ---
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=120&section=footer"/>
-</div>
