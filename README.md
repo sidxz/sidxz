@@ -54,7 +54,7 @@ Focusing on bringing AI deeper into drug discovery workflows: building agentic k
 
 ---
 
-## Featured Projects
+<!-- ## Featured Projects
 
 <table>
   <tr>
@@ -88,7 +88,7 @@ Focusing on bringing AI deeper into drug discovery workflows: building agentic k
   </tr>
 </table>
 
----
+--- -->
 
 ## Selected Publications
 
