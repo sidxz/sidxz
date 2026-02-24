@@ -94,9 +94,9 @@ Focusing on bringing AI deeper into drug discovery workflows: building agentic k
 
 | Year | Paper | Venue |
 |:----:|:------|:------|
-| 2026 | [Deep Learning for Nuisance Compound Detection Using a Gated Co-Attention Graph Embedding Model](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2026-z8srk) | *ChemRxiv* — Pending Publication |
+| 2026 | [Deep Learning for Nuisance Compound Detection Using a Gated Co-Attention Graph Embedding Model](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2026-z8srk) | *ChemRxiv* — Under Review |
 | 2025 | Integrating Chemical, Genetic, and Feasibility Assessments for Anti-Tubercular Target Validation | *EMBO Molecular Medicine* — Under Peer Review |
-| 2023 | DAIKON: A Data Acquisition, Integration, and Knowledge Capture Web App for Target-Based Drug Discovery | *ACS Pharmacology & Translational Science* |
+| 2023 | [DAIKON: A Data Acquisition, Integration, and Knowledge Capture Web App for Target-Based Drug Discovery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/) | *ACS Pharmacology & Translational Science* |
 
 ---
 
