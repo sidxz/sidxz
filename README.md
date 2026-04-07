@@ -95,7 +95,7 @@ Focusing on bringing AI deeper into drug discovery workflows: building agentic k
 | Year | Paper | Journal |
 |:----:|:------|:------|
 | 2026 | [CAGE Fusion: Deep Learning for Nuisance Compound Detection Using a Gated Co-Attention Graph Embedding Model](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2026-z8srk) | Under Peer Review |
-| 2025 | Integrating Chemical, Genetic, and Feasibility Assessments for Anti-Tubercular Target Validation | Accepted, Pending Publication [EMBO Molecular Medicine, *Springer Nature*](https://link.springer.com/journal/44321) |
+| 2025 | [Integrating Chemical, Genetic, and Feasibility Assessments for Anti-Tubercular Target Validation](https://link.springer.com/article/10.1038/s44321-026-00415-7) | [EMBO Molecular Medicine, *Springer Nature*](https://link.springer.com/journal/44321) |
 | 2023 | [DAIKON: A Data Acquisition, Integration, and Knowledge Capture Web App for Target-Based Drug Discovery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/) | [ACS Pharmacology & Translational Science, *American Chemical Society*](https://pubs.acs.org/journal/aptsfn) |
 
 ---
