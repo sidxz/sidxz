@@ -1,31 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30&height=200&section=header&text=Siddhant%20Rath&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Research%20Software%20Engineer%20%7C%20AI%2FML%20%7C%20Drug%20Discovery&descSize=19&descAlignY=58&descColor=a8dadc"/>
+  <img width="100%" src="assets/banner.svg" alt="Siddhant Rath · Research Software Engineer · AI/ML · Drug Discovery"/>
 </div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Architecting+AI+systems+for+global+drug+discovery+%F0%9F%A7%AC;CAGE-Fusion%3A+SOTA+multimodal+ML+on+MoleculeNet+%F0%9F%8F%86;Gates+Foundation-backed+DAIKON+%7C+30%2B+institutions+worldwide;Agentic+RAG+%C2%B7+Graph+ML+%C2%B7+Event-Sourced+Microservices" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sidxz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://sidx.me">
-    <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>&nbsp;
-  <a href="https://github.com/saclab">
-    <img src="https://img.shields.io/badge/SacLab-181717?style=for-the-badge&logo=github&logoColor=white" alt="SacLab"/>
-  </a>&nbsp;
-  <a href="https://github.com/structflo">
-    <img src="https://img.shields.io/badge/StructFlo-181717?style=for-the-badge&logo=github&logoColor=white" alt="StructFlo"/>
-  </a>
-</div>
-
-<br/>
+<p align="right">
+  <a href="https://www.linkedin.com/in/sidxz"><img src="assets/icons/linkedin.svg" height="24" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://saclab.biobio.tamu.edu/"><img src="assets/icons/saclab.svg" height="24" alt="SacLab, Texas A&amp;M"/></a>
+</p>
 
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sidxz&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile views"/>
