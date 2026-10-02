@@ -1,12 +1,13 @@
 name: Generate Snake Animation
 
+# Disabled: the snake was removed from the README. Only runs if triggered by hand.
 on:
-  schedule:
-    - cron: "0 */12 * * *"
+  # schedule:
+  #   - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   generate:
