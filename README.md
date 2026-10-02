@@ -68,7 +68,7 @@ Applications I lead or have led from architecture and development through produc
       <img src="assets/apps/daikon.png" width="52" height="52" alt="DAIKON logo"/>
     </picture></a></td>
     <td valign="top">
-      <b>DAIKON</b> &nbsp;·&nbsp; <a href="https://github.com/saclab/daikon-core-server">GitHub</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/">Paper</a><br/>
+      <b>DAIKON</b> &nbsp;·&nbsp; <a href="https://saclab.github.io/daikon/">saclab.github.io/daikon</a> ·  <a href="https://github.com/saclab/daikon-core-server">GitHub</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/">Paper</a><br/>
       An open-source framework for collaborative, target-based drug discovery. DAIKON integrates targets, screens, hits, compounds, and project portfolios into a unified system that captures the progression of discovery programs and enables scientific teams to curate, analyze, visualize, and share project data.<br/>
       DAIKON has been used in production within the <a href="https://www.tbdrugaccelerator.org">TB Drug Accelerator (TBDA)</a>, a <a href="https://www.gatesfoundation.org"><b>Gates Foundation</b></a> initiative, since 2022, supporting collaborative drug discovery across academic and pharmaceutical research organizations.
     </td>
