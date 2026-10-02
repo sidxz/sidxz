@@ -40,13 +40,24 @@ Applications I lead or have led from architecture and development through produc
       A chemistry-aware, domain-constrained RAG and document intelligence platform for drug discovery. DocuStore extracts and connects chemical structures, compounds, biological entities, bioactivity measurements, and scientific text to enable evidence-grounded search and question answering across complex research documents.
     </td>
   </tr>
-  <tr>
-    <td width="68" align="center" valign="middle"><a href="https://github.com/sidxz/cage_fusion"><img src="assets/apps/cage-fusion.svg" width="52" height="52" alt="CAGE-Fusion logo"/></a></td>
-    <td valign="top">
-      <b>CAGE-Fusion</b> &nbsp;·&nbsp; <a href="https://doi.org/10.1186/s13321-026-01207-4">Paper</a> · <a href="https://github.com/sidxz/cage_fusion">GitHub</a><br/>
-      A deep learning model for molecular property prediction, specialized in identifying nuisance compounds that can confound early-stage drug discovery assays. CAGE-Fusion predicts aggregation, luciferase inhibition, chemical reactivity, and promiscuity using learned molecular representations.
-    </td>
-  </tr>
+<tr>
+  <td width="68" align="center" valign="middle">
+    <a href="https://github.com/sidxz/cage_fusion">
+      <img src="assets/apps/cage-fusion.svg" width="52" height="52" alt="CAGE-Fusion logo"/>
+    </a>
+  </td>
+  <td valign="top">
+    <b>CAGE-Fusion</b> &nbsp;·&nbsp;
+    <a href="https://doi.org/10.1186/s13321-026-01207-4">Paper</a> ·
+    <a href="https://github.com/sidxz/cage_fusion">GitHub</a> · <b>Featured In </b> (
+    <a href="https://www.drugtargetreview.com/researchers-develop-ai-system-to-accelerate-tuberculosis-drug-discovery/2136121.article">Drug Target Review</a> ·
+    <a href="https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html">Phys.org</a> ·
+    <a href="https://www.the-microbiologist.com/news/tuberculosis-drug-discovery-gets-smarter-with-ai/9645.article">The Microbiologist</a> ·
+    <a href="https://www.news-medical.net/news/20260730/Texas-AM-researchers-build-AI-tools-for-tuberculosis-drug-discovery.aspx">News-Medical</a>
+)<br/>
+    A deep learning model for molecular property prediction, specialized in identifying nuisance compounds that can confound early-stage drug discovery assays. CAGE-Fusion predicts aggregation, luciferase inhibition, chemical reactivity, and promiscuity using learned molecular representations.
+  </td>
+</tr>
   <tr>
     <td width="68" align="center" valign="middle"><img src="assets/apps/daikon-ai.svg" width="52" height="52" alt="DAIKON AI logo"/></td>
     <td valign="top">
