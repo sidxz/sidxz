@@ -51,6 +51,55 @@ Focusing on bringing AI deeper into drug discovery workflows: building agentic k
 
 ---
 
+## Production Applications
+
+Applications I lead or have led from architecture and development through production deployment, supporting drug discovery teams across academic, nonprofit, and pharmaceutical organizations.
+
+<table>
+  <tr>
+    <td width="68" align="center" valign="middle"><a href="https://docustore.io"><img src="assets/apps/docustore.svg" width="52" height="52" alt="DocuStore logo"/></a></td>
+    <td valign="top">
+      <b>DocuStore</b> &nbsp;·&nbsp; <a href="https://docustore.io">docustore.io</a> · <a href="https://github.com/sidxz/docu-store">GitHub</a><br/>
+      A chemistry-aware, domain-constrained RAG and document intelligence platform for drug discovery. DocuStore extracts and connects chemical structures, compounds, biological entities, bioactivity measurements, and scientific text to enable evidence-grounded search and question answering across complex research documents.
+    </td>
+  </tr>
+  <tr>
+    <td width="68" align="center" valign="middle"><a href="https://github.com/sidxz/cage_fusion"><img src="assets/apps/cage-fusion.svg" width="52" height="52" alt="CAGE-Fusion logo"/></a></td>
+    <td valign="top">
+      <b>CAGE-Fusion</b> &nbsp;·&nbsp; <a href="https://doi.org/10.1186/s13321-026-01207-4">Paper</a> · <a href="https://github.com/sidxz/cage_fusion">GitHub</a><br/>
+      A deep learning model for molecular property prediction, specialized in identifying nuisance compounds that can confound early-stage drug discovery assays. CAGE-Fusion predicts aggregation, luciferase inhibition, chemical reactivity, and promiscuity using learned molecular representations.
+    </td>
+  </tr>
+  <tr>
+    <td width="68" align="center" valign="middle"><img src="assets/apps/daikon-ai.svg" width="52" height="52" alt="DAIKON AI logo"/></td>
+    <td valign="top">
+      <b>DAIKON AI &amp; Curator Studio</b> &nbsp;·&nbsp; <i>Closed user group testing · Coming soon</i><br/>
+      A collaborative drug discovery platform for scientific data curation, AI/ML prediction, analysis, and project management across the early discovery lifecycle, from genes and targets through screening, hit assessment, portfolio management, and post-portfolio studies.<br/>
+      DAIKON AI &amp; Curator Studio is the next generation of <b>DAIKON</b>, extending a platform used by the <a href="https://www.tbdrugaccelerator.org">TB Drug Accelerator</a> consortium since 2022 to support collaborative tuberculosis drug discovery.
+    </td>
+  </tr>
+  <tr>
+    <td width="68" align="center" valign="middle"><a href="https://chemcellar.com"><img src="assets/apps/chemcellar.svg" width="52" height="52" alt="ChemCellar logo"/></a></td>
+    <td valign="top">
+      <b>ChemCellar</b> &nbsp;·&nbsp; <a href="https://chemcellar.com">chemcellar.com</a> · <a href="https://github.com/sidxz/cellar">GitHub</a><br/>
+      An open-source compound registration, management, and screening platform for research organizations. ChemCellar provides a centralized environment for managing molecules, assays, protocols, compound collections, screening data, and research projects.
+    </td>
+  </tr>
+  <tr>
+    <td width="68" align="center" valign="middle"><a href="https://github.com/saclab/daikon-core-server"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/apps/daikon-dark.png"/>
+      <img src="assets/apps/daikon.png" width="52" height="52" alt="DAIKON logo"/>
+    </picture></a></td>
+    <td valign="top">
+      <b>DAIKON</b> &nbsp;·&nbsp; <a href="https://github.com/saclab/daikon-core-server">GitHub</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/">Paper</a><br/>
+      An open-source framework for collaborative, target-based drug discovery. DAIKON integrates targets, screens, hits, compounds, and project portfolios into a unified system that captures the progression of discovery programs and enables scientific teams to curate, analyze, visualize, and share project data.<br/>
+      DAIKON has been used in production within the <a href="https://www.tbdrugaccelerator.org">TB Drug Accelerator (TBDA)</a>, a <a href="https://www.gatesfoundation.org"><b>Gates Foundation</b></a> initiative, since 2022, supporting collaborative drug discovery across academic and pharmaceutical research organizations.
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Tech Stack
 
 | | |
