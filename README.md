@@ -10,11 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=sidxz&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile views"/>
 </div> -->
 
----
-
 ## About Me
 
-Focusing on bringing AI deeper into drug discovery workflows: building agentic knowledge-discovery systems that integrate structured data, scientific literature, and experimental outputs; advancing multimodal transformer models for molecular property prediction; and delivering transparent interfaces and reproducible data/cheminformatics pipelines that make complex AI decisions interpretable.
+I'm a software and machine learning engineer at Texas A&M AgriLife Research, working alongside structural biologists, medicinal chemists, and computational scientists on early-stage drug discovery. Much of my work supports the TB Drug Accelerator (TBDA), a Gates Foundation consortium that brings together pharmaceutical companies, universities, and research institutions.
 
 📍 Austin, TX &nbsp;·&nbsp; M.S. CS, Texas A&M
 
