@@ -86,6 +86,34 @@ Applications I lead or have led from architecture and development through produc
   </tr>
 </table>
 
+## Other Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://duar.io"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/apps/duar-dark.png"/>
+        <img src="assets/apps/duar.png" height="40" alt="Duar logo"/>
+      </picture></a><br/>
+      <b>Duar</b><br/>
+      <sub>Self-hosted authorization for multi-tenant apps: workspaces, RBAC, and per-resource permissions on top of any OIDC provider.</sub><br/>
+      <sub><a href="https://duar.io">duar.io</a> · <a href="https://github.com/sidxz/duar">GitHub</a> · <a href="https://docs.duar.io">Docs</a></sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/structflo/structflo-cser"><img src="assets/apps/structflo.png" height="40" alt="structflo logo"/></a><br/>
+      <b>structflo.cser</b><br/>
+      <sub>Chemical structure and label extraction from scientific documents.</sub><br/>
+      <sub><a href="https://github.com/structflo/structflo-cser">GitHub</a> · <a href="https://pypi.org/project/structflo-cser/">PyPI</a></sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/structflo/structflo-ner"><img src="assets/apps/structflo.png" height="40" alt="structflo logo"/></a><br/>
+      <b>structflo.ner</b><br/>
+      <sub>Zero-config named entity recognition for drug discovery, chemistry, and biological sciences.</sub><br/>
+      <sub><a href="https://github.com/structflo/structflo-ner">GitHub</a> · <a href="https://pypi.org/project/structflo-ner/">PyPI</a></sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Tech Stack
