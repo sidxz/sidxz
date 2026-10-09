@@ -36,7 +36,7 @@ Applications I lead or have led from architecture and development through produc
   <tr>
     <td width="68" align="center" valign="middle"><a href="https://docustore.io"><img src="assets/apps/docustore.svg" width="52" height="52" alt="DocuStore logo"/></a></td>
     <td valign="top">
-      <b>DocuStore</b> &nbsp;·&nbsp; <a href="https://docustore.io">docustore.io</a> · <a href="https://github.com/sidxz/docu-store">GitHub</a><br/>
+      <b>DocuStore</b> &nbsp;·&nbsp; <a href="https://docustore.io">docustore.io</a> · <a href="https://doi.org/10.21203/rs.3.rs-11294579/v1">Paper</a> · <a href="https://github.com/sidxz/docu-store">GitHub</a><br/>
       A chemistry-aware, domain-constrained RAG and document intelligence platform for drug discovery. DocuStore extracts and connects chemical structures, compounds, biological entities, bioactivity measurements, and scientific text to enable evidence-grounded search and question answering across complex research documents.
     </td>
   </tr>
