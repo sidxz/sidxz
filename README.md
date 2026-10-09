@@ -19,9 +19,9 @@ I'm a software and machine learning engineer at Texas A&M AgriLife Research, wor
 ---
 
 ## Selected Publications
-
 | Year | Paper | Journal |
 |:----:|:------|:------|
+| 2026 | [DocuStore: Domain Constrained Retrieval Augmented Generation for Drug Discovery Documents](https://doi.org/10.21203/rs.3.rs-11294579/v1)| [Preprint](https://doi.org/10.21203/rs.3.rs-11294579/v1) |
 | 2026 | [CAGE Fusion: Deep Learning for Nuisance Compound Detection Using a Gated Co-Attention Graph Embedding Model](https://link.springer.com/article/10.1186/s13321-026-01207-4) | [Journal of Cheminformatics, *Springer Nature*](https://link.springer.com/journal/13321) |
 | 2025 | [Integrating Chemical, Genetic, and Feasibility Assessments for Anti-Tubercular Target Validation](https://link.springer.com/article/10.1038/s44321-026-00415-7) | [EMBO Molecular Medicine, *Springer Nature*](https://link.springer.com/journal/44321) |
 | 2023 | [DAIKON: A Data Acquisition, Integration, and Knowledge Capture Web App for Target-Based Drug Discovery](https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/) | [ACS Pharmacology & Translational Science, *American Chemical Society*](https://pubs.acs.org/journal/aptsfn) |
