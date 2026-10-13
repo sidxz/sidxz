@@ -118,7 +118,6 @@ Applications I lead or have led from architecture and development through produc
         <source media="(prefers-color-scheme: dark)" srcset="assets/apps/mtb-atlas-dark.png"/>
         <img src="assets/apps/mtb-atlas.png" height="40" alt="M. tuberculosis Atlas logo"/>
       </picture></a><br/>
-      <b>M. tuberculosis Atlas</b><br/>
       <sub>Explore public evidence on <i>M. tuberculosis</i> H37Rv drug targets: genes, structures, compound activity, screens, resistance, drugs and trials.</sub><br/>
       <sub><a href="https://github.com/sidxz/mtb-atlas">GitHub</a></sub>
     </td>
