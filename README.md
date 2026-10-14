@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a software and machine learning engineer at Texas A&M AgriLife Research, working alongside structural biologists, medicinal chemists, and computational scientists on early-stage drug discovery. Much of my work supports the TB Drug Accelerator (TBDA), a Gates Foundation consortium that brings together pharmaceutical companies, universities, and research institutions.
+I'm a software and machine learning engineer at Texas A&M AgriLife Research, working alongside structural biologists, medicinal chemists, and computational scientists on early-stage drug discovery. 
 
 📍 Austin, TX &nbsp;·&nbsp; M.S. CS, Texas A&M
 
