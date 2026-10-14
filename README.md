@@ -19,7 +19,7 @@ I'm a software and machine learning engineer at Texas A&M AgriLife Research, wor
 ---
 
 ## Selected Publications
-| Year | Paper | Journal |
+| Year | Publication | Journal |
 |:----:|:------|:------|
 | 2026 | [DocuStore: Domain Constrained Retrieval Augmented Generation for Drug Discovery Documents](https://doi.org/10.21203/rs.3.rs-11294579/v1)| [Preprint](https://doi.org/10.21203/rs.3.rs-11294579/v1) |
 | 2026 | [CAGE Fusion: Deep Learning for Nuisance Compound Detection Using a Gated Co-Attention Graph Embedding Model](https://link.springer.com/article/10.1186/s13321-026-01207-4) | [Journal of Cheminformatics, *Springer Nature*](https://link.springer.com/journal/13321) |
@@ -36,7 +36,7 @@ Applications I lead or have led from architecture and development through produc
   <tr>
     <td width="68" align="center" valign="middle"><a href="https://docustore.io"><img src="assets/apps/docustore.svg" width="52" height="52" alt="DocuStore logo"/></a></td>
     <td valign="top">
-      <b>DocuStore</b> &nbsp;·&nbsp; <a href="https://docustore.io">docustore.io</a> · <a href="https://doi.org/10.21203/rs.3.rs-11294579/v1">Paper</a> · <a href="https://github.com/sidxz/docu-store">GitHub</a><br/>
+      <b>DocuStore</b> &nbsp;·&nbsp; <a href="https://docustore.io">docustore.io</a> · <a href="https://doi.org/10.21203/rs.3.rs-11294579/v1">Publication</a> · <a href="https://github.com/sidxz/docu-store">GitHub</a><br/>
       A chemistry-aware, domain-constrained RAG and document intelligence platform for drug discovery. DocuStore extracts and connects chemical structures, compounds, biological entities, bioactivity measurements, and scientific text to enable evidence-grounded search and question answering across complex research documents.
     </td>
   </tr>
@@ -48,7 +48,7 @@ Applications I lead or have led from architecture and development through produc
   </td>
   <td valign="top">
     <b>CAGE-Fusion</b> &nbsp;·&nbsp;
-    <a href="https://doi.org/10.1186/s13321-026-01207-4">Paper</a> ·
+    <a href="https://doi.org/10.1186/s13321-026-01207-4">Publication</a> ·
     <a href="https://github.com/sidxz/cage_fusion">GitHub</a> · <b>Featured In </b> (
     <a href="https://www.drugtargetreview.com/researchers-develop-ai-system-to-accelerate-tuberculosis-drug-discovery/2136121.article">Drug Target Review</a> ·
     <a href="https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html">Phys.org</a> ·
@@ -79,7 +79,7 @@ Applications I lead or have led from architecture and development through produc
       <img src="assets/apps/daikon.png" width="52" height="52" alt="DAIKON logo"/>
     </picture></a></td>
     <td valign="top">
-      <b>DAIKON</b> &nbsp;·&nbsp; <a href="https://saclab.github.io/daikon/">saclab.github.io/daikon</a> ·  <a href="https://github.com/saclab/daikon-core-server">GitHub</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/">Paper</a><br/>
+      <b>DAIKON</b> &nbsp;·&nbsp; <a href="https://saclab.github.io/daikon/">saclab.github.io/daikon</a> ·  <a href="https://github.com/saclab/daikon-core-server">GitHub</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10353056/">Publication</a><br/>
       An open-source framework for collaborative, target-based drug discovery. DAIKON integrates targets, screens, hits, compounds, and project portfolios into a unified system that captures the progression of discovery programs and enables scientific teams to curate, analyze, visualize, and share project data.<br/>
       DAIKON has been used in production within the <a href="https://www.tbdrugaccelerator.org">TB Drug Accelerator (TBDA)</a>, a <a href="https://www.gatesfoundation.org"><b>Gates Foundation</b></a> initiative, since 2022, supporting collaborative drug discovery across academic and pharmaceutical research organizations.
     </td>
