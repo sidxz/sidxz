@@ -121,6 +121,12 @@ Applications I lead or have led from architecture and development through produc
       <sub>Explore public evidence on <i>M. tuberculosis</i> H37Rv drug targets: genes, structures, compound activity, screens, resistance, drugs and trials.</sub><br/>
       <sub><a href="https://github.com/sidxz/mtb-atlas">GitHub</a></sub>
     </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/sidxz/molseal"><img src="assets/apps/molseal.svg" height="40" alt="Molseal logo"/></a><br/>
+      <b>Molseal</b><br/>
+      <sub>Encrypted molecular storage with RDKit: AES-256-GCM records in SQL, with substructure, similarity and exact-key search.</sub><br/>
+      <sub><a href="https://github.com/sidxz/molseal">GitHub</a> · <a href="https://pypi.org/project/molseal/">PyPI</a></sub>
+    </td>
   </tr>
 </table>
 
